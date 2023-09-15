@@ -1,0 +1,73 @@
+body {
+    font-family:'Gill Sans', sans-serif;
+    margin: 0;
+    padding: 10px;
+    font-size: 16px;
+    min-width: 460px;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    margin-top: 4px;
+
+    background: #4263EB;
+    border-radius: 8px;
+
+    font-family: inherit;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    text-shadow: 0.1rem 0.1rem 0.1rem #07185f;
+    border: none;
+    color: #FFFFFF;
+    
+    cursor: pointer;
+}
+
+#del-btn {
+    background: #F784AD;
+}
+
+input {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+
+    height: 40px;
+    font-family: inherit;
+    font-size: 16px;
+    background: #FFFFFF;
+    
+
+    border: 1px solid #DDE2E5;
+    border-radius: 8px;
+
+    color: #caced0;
+
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+ul li {
+    background-image: url(www.svg);
+    background-repeat: no-repeat;
+    line-height: 23px;
+    padding-left: 30px;
+}
+
+
+li {
+    list-style: none;
+    margin-bottom: 8px;
+}
+
+
+a {
+    color: #4263EB;
+    font-size: 1.2rem;
+}
