@@ -2,7 +2,8 @@
 
 Расширение для Google Chrome с использованием LocalStorage. Позволяет сохранять текущую ссылку, ссылку, которую ввел пользователь, и удалять все ссылки.
 
-<img width="484" alt="image" src="https://github.com/nastyakrlv/chrome-extension/assets/112975832/326f8f77-bf0f-42f0-aea6-5096e8d6e467">
+<img width="486" alt="image" src="https://github.com/nastyakrlv/chrome-extension/assets/112975832/b3758e61-ce95-41a0-8920-ad86d46ee1c4">
+
 
 ## Содержание
 
